@@ -48,7 +48,7 @@ This is my personal portfolio website showcasing my About, Programming Languages
 
 ## 🔗 Live Version
 
-[View Live](https://1-annrita.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
+[View Live]()
 
 ---
 ## 🙌 Author
