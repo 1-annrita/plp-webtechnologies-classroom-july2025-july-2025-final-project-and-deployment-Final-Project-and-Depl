@@ -4,11 +4,17 @@ This is my personal portfolio website showcasing my About, Programming Languages
 
 ## 🚀 Technologies Used
 
+```
+
 - HTML5 & CSS3
 -JavaScript (for Dark Mode Toggle)
 - Git & GitHub
 
+```
+
 ## 💡 Features
+
+```
 
 -Fully responsive layout
 -Dark mode toggle with persistence across pages
@@ -17,13 +23,19 @@ This is my personal portfolio website showcasing my About, Programming Languages
 -Contact section with direct email, phone, GitHub, and LinkedIn links
 -Highlighted skills, projects, and interests using custom icons
 
+```
+
 ## 📁 Project Structure
+
+```
 
 - `index.html`: Main structure
 - `css/styles.css`: Styling for the entire website
 - `js/script.js`: JavaScript for dark mode toggle and persistence
 - `assets/images/`: Profile and project images
 -`pages/`: Other pages
+
+```
 
 
 ## 🖼️ Screenshots
@@ -39,5 +51,13 @@ This is my personal portfolio website showcasing my About, Programming Languages
 [View Live]()
 
 ---
+## 🙌 Author
 
-© 2025 AnnRita Mukami Gitonga
+AnnRita Mukami Gitonga
+
+```
+💼 Software Engineer | Frontend Developer | Telecommunications & IT Graduate
+📧 Email: annritamukami23@gmail.com
+🐙 GitHub: https://github.com/1-annrita
+
+```
